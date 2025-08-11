@@ -1,0 +1,37 @@
+# # File: requirements.txt
+# streamlit
+# pdfplumber
+# python-docx
+# spacy
+# en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+# sentence-transformers
+# transformers
+# torch
+# reportlab
+# pytest
+# sumy
+# networkx
+# scikit-learn
+# matplotlib
+# python-dotenv
+# tqdm
+# joblib
+
+
+streamlit
+pdfplumber
+python-docx
+spacy
+en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.5.0/en_core_web_trf-3.5.0.tar.gz
+sentence-transformers
+transformers
+torch
+reportlab
+pytest
+sumy
+networkx
+scikit-learn
+matplotlib
+python-dotenv
+tqdm
+joblib
