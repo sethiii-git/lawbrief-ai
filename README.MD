@@ -39,3 +39,18 @@ LawBrief AI is a powerful, offline-first legal document analyzer designed to dem
 ```bash
 git clone https://github.com/sethiii-git/lawbrief-ai.git
 cd lawbrief-ai
+```
+
+2. Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the appication:
+
+```bash
+streamlit run frontend/app.py
+```
+
+4.Open your web browser and navigate to the local URL provided by Streamlit (usually http://localhost:8501).
