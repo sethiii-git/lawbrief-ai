@@ -278,7 +278,7 @@
 #         print(f"  • {r}")
 
 
-# File: backend/risk_detector.py
+## File: backend/risk_detector.py
 """
 Enhanced Legal Clause Risk Assessment and Scoring Module.
 Fully compatible with updated clause_extractor output.
